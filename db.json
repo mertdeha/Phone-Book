@@ -1,0 +1,220 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Mert Deha Karayel",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "phone": "0563826301",
+      "email": "mertdehakarayel@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "position": "Backend Developer",
+      "company": "TechCorp",
+      "phone": "0563826302",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Jane Smith",
+      "position": "Full Stack Developer",
+      "company": "Udemig",
+      "phone": "0563826303",
+      "email": "janesmith@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Alice Johnson",
+      "position": "UI/UX Designer",
+      "company": "DesignPro",
+      "phone": "0563826304",
+      "email": "alicejohnson@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "position": "Data Scientist",
+      "company": "DataWiz",
+      "phone": "0563826305",
+      "email": "michaelbrown@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Emily Davis",
+      "position": "Software Engineer",
+      "company": "Udemig",
+      "phone": "0563826306",
+      "email": "emilydavis@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Chris Wilson",
+      "position": "DevOps Engineer",
+      "company": "CloudTech",
+      "phone": "0563826307",
+      "email": "chriswilson@example.com"
+    },
+    {
+      "name": "Jessica Taylor",
+      "position": "Mobile Developer",
+      "company": "AppSphere",
+      "phone": "0563826308",
+      "email": "jessicataylor@example.com",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "David Martinez",
+      "position": "Cybersecurity Analyst",
+      "company": "SecuSafe",
+      "phone": "0563826309",
+      "email": "davidmartinez@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Sophia White",
+      "position": "Machine Learning Engineer",
+      "company": "AI Innovations",
+      "phone": "0563826310",
+      "email": "sophiawhite@example.com"
+    },
+    {
+      "id": 11,
+      "name": "Daniel Thomas",
+      "position": "Product Manager",
+      "company": "TechCorp",
+      "phone": "0563826311",
+      "email": "danielthomas@example.com"
+    },
+    {
+      "id": 12,
+      "name": "Olivia Harris",
+      "position": "Cloud Architect",
+      "company": "CloudTech",
+      "phone": "0563826312",
+      "email": "oliviaharris@example.com"
+    },
+    {
+      "id": 13,
+      "name": "William Clark",
+      "position": "Software Tester",
+      "company": "Testify",
+      "phone": "0563826313",
+      "email": "williamclark@example.com"
+    },
+    {
+      "id": 14,
+      "name": "Isabella Lewis",
+      "position": "Blockchain Developer",
+      "company": "CryptoNet",
+      "phone": "0563826314",
+      "email": "isabellalewis@example.com"
+    },
+    {
+      "id": 15,
+      "name": "Ethan Walker",
+      "position": "Game Developer",
+      "company": "GameStudio",
+      "phone": "0563826315",
+      "email": "ethanwalker@example.com"
+    },
+    {
+      "id": 16,
+      "name": "Mia Allen",
+      "position": "Embedded Systems Engineer",
+      "company": "EmbeddedTech",
+      "phone": "0563826316",
+      "email": "miaallen@example.com"
+    },
+    {
+      "id": 17,
+      "name": "James Young",
+      "position": "IT Support Specialist",
+      "company": "SupportHub",
+      "phone": "0563826317",
+      "email": "jamesyoung@example.com"
+    },
+    {
+      "id": 18,
+      "name": "Charlotte King",
+      "position": "Network Engineer",
+      "company": "NetSolutions",
+      "phone": "0563826318",
+      "email": "charlotteking@example.com"
+    },
+    {
+      "id": 19,
+      "name": "Benjamin Scott",
+      "position": "Database Administrator",
+      "company": "DataCore",
+      "phone": "0563826319",
+      "email": "benjaminscott@example.com"
+    },
+    {
+      "id": 20,
+      "name": "Amelia Adams",
+      "position": "Technical Writer",
+      "company": "DocuTech",
+      "phone": "0563826320",
+      "email": "ameliaadams@example.com"
+    },
+    {
+      "id": 21,
+      "name": "Liam Carter",
+      "position": "Big Data Engineer",
+      "company": "DataWiz",
+      "phone": "0563826321",
+      "email": "liamcarter@example.com"
+    },
+    {
+      "id": 22,
+      "name": "Lucas Wright",
+      "position": "AI Researcher",
+      "company": "AI Lab",
+      "phone": "0563826322",
+      "email": "lucaswright@example.com"
+    },
+    {
+      "id": 23,
+      "name": "Ella Green",
+      "position": "IoT Developer",
+      "company": "SmartThings",
+      "phone": "0563826323",
+      "email": "ellagreen@example.com"
+    },
+    {
+      "id": 24,
+      "name": "Noah Hall",
+      "position": "Robotics Engineer",
+      "company": "RoboTech",
+      "phone": "0563826324",
+      "email": "noahhall@example.com"
+    },
+    {
+      "id": 25,
+      "name": "Ava Nelson",
+      "position": "VR Developer",
+      "company": "VirtualVisions",
+      "phone": "0563826325",
+      "email": "avanelson@example.com"
+    },
+    {
+      "name": "Anna Marks",
+      "position": "Backend Developer",
+      "company": "TechCorps",
+      "phone": "0846439398",
+      "email": "annamarks@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "Marcus Thomas",
+      "position": "Biomedical Engineer",
+      "company": "TechCorps",
+      "phone": "05463820733",
+      "email": "marcusblunt@gmail.com",
+      "id": 33
+    }
+  ]
+}
