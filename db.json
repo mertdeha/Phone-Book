@@ -81,12 +81,12 @@
       "email": "sophiawhite@example.com"
     },
     {
-      "id": 11,
-      "name": "Daniel Thomas",
+      "name": "Emmanuel Thomas",
       "position": "Product Manager",
       "company": "TechCorp",
       "phone": "0563826311",
-      "email": "danielthomas@example.com"
+      "email": "danielthomas@example.com",
+      "id": 11
     },
     {
       "id": 12,
@@ -215,6 +215,14 @@
       "phone": "05463820733",
       "email": "marcusblunt@gmail.com",
       "id": 33
+    },
+    {
+      "name": "Marie Watsons",
+      "position": "Backend Developer",
+      "company": "TechCorps",
+      "phone": "5056265911",
+      "email": "mariewatsons@gmail.com",
+      "id": 34
     }
   ]
 }
