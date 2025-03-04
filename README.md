@@ -20,4 +20,4 @@ Contact Book is a user-friendly React application designed for managing personal
 
 # Preview
 
-![](phone-book_mp4.mp4)
+![](phone-book_gif.gif)
